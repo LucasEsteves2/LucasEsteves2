@@ -45,6 +45,6 @@
   <a href = "mailto:contato@luqui2.tech"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-esteves-de-abreu-rodrigues-848b841ba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/luqui2/luqui2/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/LucasEsteves2/LucasEsteves2/blob/output/github-contribution-grid-snake.svg)
  
 </div>
