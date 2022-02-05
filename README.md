@@ -1,7 +1,6 @@
 ## Lucas Esteves de Abreu Rodrigues
 
  - **🎓 Cursando Tecnologia da informação e comunicação na universidade CPTI/FAETERJ.** <br>
- - **💡 Cursando Desenvolvedor Full Stack no programa de Residência de Software na Serratec**
   <br/><br/>
  <div>
   <a href="https://github.com/LucasEsteves2">
