@@ -41,7 +41,7 @@
 
   ##
 
- <img align="right" height="180em" alt="Rafa-yoda" src="https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif">
+ <img align="right" height="180em" alt="Rafa-yoda" src="https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif\">
 <div> 
 
   <a href="https://www.instagram.com/lc.estevess/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
