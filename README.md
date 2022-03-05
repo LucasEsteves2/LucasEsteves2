@@ -23,6 +23,7 @@
     <img align="center" alt="Esteves-android" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg">
     <img align="center" alt="Esteves-Lua" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-plain-wordmark.svg">
  <img align="center" alt="Esteves-Postgree" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
+   <img align="center" alt="Esteves-Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">
   <img align="center" alt="Esteves-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
 
 <!-- FRONT  -->
