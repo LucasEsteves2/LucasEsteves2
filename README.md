@@ -1,7 +1,6 @@
 ## Lucas Esteves de Abreu Rodrigues
 
  - **🎓 Cursando Tecnologia da informação e comunicação na universidade CPTI/FAETERJ.** <br>
-   <img align="right" height="180em" alt="LUCAS-yoda" src="https://github.com/LucasEsteves2/Portifolio/blob/main/src/assets/img/Lucas.png">
 
   <br/><br/>
  <div>
@@ -44,7 +43,8 @@
  
 </div>
 
-  ##
+    <img align="right" height="180em" alt="LUCAS-yoda" src="https://github.com/LucasEsteves2/Portifolio/blob/main/src/assets/img/Lucas.png">
+
 
 <div> 
 
