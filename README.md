@@ -8,11 +8,8 @@
   <a href="https://github.com/LucasEsteves2">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=LucasEsteves2&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasEsteves2&layout=compact&langs_count=7&theme=radical"/>
-
 </div>
- 
  <br/><br/>
- 
  
  
  
@@ -39,12 +36,12 @@
  <img align="center" alt="Esteves-ps" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg">
 
  
+
 </div>
-<br>
-  <img align="right" alt="Esteves-ps" height="200em"src="https://github.com/LucasEsteves2/Portifolio/blob/main/src/assets/img/image-removebg-preview%20(2).png">
 
+  ##
 
-
+ <img align="right" height="180em" alt="Rafa-yoda" src="https://github.com/LucasEsteves2/Portifolio/blob/main/src/assets/img/image-removebg-preview%20(2).png">
 <div> 
 
   <a href="https://www.instagram.com/lc.estevess/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
