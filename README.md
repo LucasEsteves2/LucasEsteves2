@@ -1,9 +1,10 @@
 ## Lucas Esteves de Abreu Rodrigues
 
  - **🎓 Cursando Tecnologia da informação e comunicação na universidade CPTI/FAETERJ.** <br>
+   <img align="right" height="180em" alt="LUCAS-yoda" src="https://github.com/LucasEsteves2/Portifolio/blob/main/src/assets/img/Lucas.png">
+
   <br/><br/>
  <div>
-  <img align="right" height="180em" alt="LUCAS-yoda" src="https://github.com/LucasEsteves2/Portifolio/blob/main/src/assets/img/Lucas.png">
 
   <a href="https://github.com/LucasEsteves2">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=LucasEsteves2&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
