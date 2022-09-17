@@ -39,7 +39,7 @@
  
 </div>
 <br>
-  <img align="right" alt="Esteves-ps" height="180em"src="https://github.com/LucasEsteves2/Portifolio/blob/main/src/assets/img/Lucas.png">
+  <img align="right" alt="Esteves-ps" height="180em"src="https://github.com/LucasEsteves2/Portifolio/blob/main/src/assets/img/image-removebg-preview%20(2).png">
 
 
 
