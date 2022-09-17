@@ -42,8 +42,8 @@
  
  
 </div>
+ <img align="right" alt="Esteves-ps" height="180em"src="https://github.com/LucasEsteves2/Portifolio/blob/main/src/assets/img/Lucas.png">
 
-    <img align="right" height="180em" alt="LUCAS-yoda" src="https://github.com/LucasEsteves2/Portifolio/blob/main/src/assets/img/Lucas.png">
 
 
 <div> 
