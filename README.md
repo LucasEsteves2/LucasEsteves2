@@ -3,6 +3,8 @@
  - **🎓 Cursando Tecnologia da informação e comunicação na universidade CPTI/FAETERJ.** <br>
   <br/><br/>
  <div>
+  <img align="right" height="180em" alt="LUCAS-yoda" src="https://github.com/LucasEsteves2/Portifolio/blob/main/src/assets/img/Lucas.png">
+
   <a href="https://github.com/LucasEsteves2">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=LucasEsteves2&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasEsteves2&layout=compact&langs_count=7&theme=radical"/>
@@ -43,7 +45,6 @@
 
   ##
 
- <img align="right" height="180em" alt="LUCAS-yoda" src="https://i.imgur.com/qj6uRrW.gif">
 <div> 
 
   <a href="https://www.instagram.com/lc.estevess/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
