@@ -37,12 +37,9 @@
  <img align="center" alt="Esteves-ps" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg">
 
  
- 
- 
- 
- 
 </div>
- <img align="right" alt="Esteves-ps" height="180em"src="https://github.com/LucasEsteves2/Portifolio/blob/main/src/assets/img/Lucas.png">
+<br>
+  <img align="right" alt="Esteves-ps" height="180em"src="https://github.com/LucasEsteves2/Portifolio/blob/main/src/assets/img/Lucas.png">
 
 
 
